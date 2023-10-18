@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='infotest',
-  version='0.0.1',
+  version='0.1.1',
   author='Eugene Bez',
   author_email='holodische@gmail.com',
   description='This is a test module to demonstrate the creation of libraries.',
