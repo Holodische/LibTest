@@ -1,6 +1,3 @@
 .env/
 .env/*
 main.py
-InfoTest/build/
-InfoTest/dist/
-InfoTest/infotest.egg-info/
