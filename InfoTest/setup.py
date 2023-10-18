@@ -14,7 +14,7 @@ setup(
   description='This is a test module to demonstrate the creation of libraries.',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='https://github.com/Holodische',
+  url='https://github.com/Holodische/test',
   packages=find_packages(),
   install_requires=['requests>=2.25.1'],
   classifiers=[
@@ -24,7 +24,7 @@ setup(
   ],
   keywords='files infotest',
   project_urls={
-    'GitHub': 'my_github'
+    'GitHub': 'https://github.com/Holodische/test'
   },
   python_requires='>=3.6'
 )

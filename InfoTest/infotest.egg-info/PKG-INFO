@@ -2,11 +2,11 @@ Metadata-Version: 2.1
 Name: infotest
 Version: 0.0.1
 Summary: This is a test module to demonstrate the creation of libraries.
-Home-page: https://github.com/Holodische
+Home-page: https://github.com/Holodische/test
 Author: Eugene Bez
 Author-email: holodische@gmail.com
 License: UNKNOWN
-Project-URL: GitHub, my_github
+Project-URL: GitHub, https://github.com/Holodische/test
 Keywords: files infotest
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.10
